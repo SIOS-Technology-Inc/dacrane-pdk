@@ -1,4 +1,4 @@
-package dacranepdk
+package pdk
 
 import (
 	"encoding/base64"
